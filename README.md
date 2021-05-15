@@ -7,8 +7,11 @@ Navigate to file location and run 'node yargs.js' (if you have node.js set up on
 
 Commands:
   yargs.js add --title="" --body=""  Add a new note, title and body provided witin ""
+  
   yargs.js remove --title=""         Remove a note
+  
   yargs.js read --title=""           Read a note
+  
   yargs.js list                      List notes
 
 Options:
